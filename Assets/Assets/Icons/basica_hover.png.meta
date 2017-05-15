@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: cf1f572f8d5cce447be0d5375347cb7b
+timeCreated: 1494851727
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basica_hover_0
+    21300002: basica_hover_1
+    21300004: basica_hover_2
+    21300006: basica_hover_3
+    21300008: basica_hover_4
+    21300010: basica_hover_5
+    21300012: basica_hover_6
+    21300014: basica_hover_7
+    21300016: basica_hover_8
+    21300018: basica_hover_9
+    21300020: basica_hover_10
+    21300022: basica_hover_11
+    21300024: basica_hover_12
+    21300026: basica_hover_13
+    21300028: basica_hover_14
+    21300030: basica_hover_15
+    21300032: basica_hover_16
+    21300034: basica_hover_17
+    21300036: basica_hover_18
+    21300038: basica_hover_19
+    21300040: basica_hover_20
+    21300042: basica_hover_21
+    21300044: basica_hover_22
+    21300046: basica_hover_23
+    21300048: basica_hover_24
+    21300050: basica_hover_25
+    21300052: basica_hover_26
+    21300054: basica_hover_27
+    21300056: basica_hover_28
+    21300058: basica_hover_29
+    21300060: basica_hover_30
+    21300062: basica_hover_31
+    21300064: basica_hover_32
+    21300066: basica_hover_33
+    21300068: basica_hover_34
+    21300070: basica_hover_35
+    21300072: basica_hover_36
+    21300074: basica_hover_37
+    21300076: basica_hover_38
+    21300078: basica_hover_39
+    21300080: basica_hover_40
+    21300082: basica_hover_41
+    21300084: basica_hover_42
+    21300086: basica_hover_43
+    21300088: basica_hover_44
+    21300090: basica_hover_45
+    21300092: basica_hover_46
+    21300094: basica_hover_47
+    21300096: basica_hover_48
+    21300098: basica_hover_49
+    21300100: basica_hover_50
+    21300102: basica_hover_51
+    21300104: basica_hover_52
+    21300106: basica_hover_53
+    21300108: basica_hover_54
+    21300110: basica_hover_55
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basica_hover_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_8
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_9
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_11
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_12
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 604
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_22
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_23
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_25
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_26
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 426
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_33
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_36
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_37
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_38
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_39
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_40
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 266
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_47
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_49
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_50
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_51
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_52
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_53
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_54
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 113
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_hover_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 177
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

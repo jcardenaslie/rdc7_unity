@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: f3608bb55c154ec42a099ed413316b2d
+timeCreated: 1494851526
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basica_0
+    21300002: basica_1
+    21300004: basica_2
+    21300006: basica_3
+    21300008: basica_4
+    21300010: basica_5
+    21300012: basica_6
+    21300014: basica_7
+    21300016: basica_8
+    21300018: basica_9
+    21300020: basica_10
+    21300022: basica_11
+    21300024: basica_12
+    21300026: basica_13
+    21300028: basica_14
+    21300030: basica_15
+    21300032: basica_16
+    21300034: basica_17
+    21300036: basica_18
+    21300038: basica_19
+    21300040: basica_20
+    21300042: basica_21
+    21300044: basica_22
+    21300046: basica_23
+    21300048: basica_24
+    21300050: basica_25
+    21300052: basica_26
+    21300054: basica_27
+    21300056: basica_28
+    21300058: basica_29
+    21300060: basica_30
+    21300062: basica_31
+    21300064: basica_32
+    21300066: basica_33
+    21300068: basica_34
+    21300070: basica_35
+    21300072: basica_36
+    21300074: basica_37
+    21300076: basica_38
+    21300078: basica_39
+    21300080: basica_40
+    21300082: basica_41
+    21300084: basica_42
+    21300086: basica_43
+    21300088: basica_44
+    21300090: basica_45
+    21300092: basica_46
+    21300094: basica_47
+    21300096: basica_48
+    21300098: basica_49
+    21300100: basica_50
+    21300102: basica_51
+    21300104: basica_52
+    21300106: basica_53
+    21300108: basica_54
+    21300110: basica_55
+    21300112: basica_56
+    21300114: basica_57
+    21300116: basica_58
+    21300118: basica_59
+    21300120: basica_60
+    21300122: basica_61
+    21300124: basica_62
+    21300126: basica_63
+    21300128: basica_64
+    21300130: basica_65
+    21300132: basica_66
+    21300134: basica_67
+    21300136: basica_68
+    21300138: basica_69
+    21300140: basica_70
+    21300142: basica_71
+    21300144: basica_72
+    21300146: basica_73
+    21300148: basica_74
+    21300150: basica_75
+    21300152: basica_76
+    21300154: basica_77
+    21300156: basica_78
+    21300158: basica_79
+    21300160: basica_80
+    21300162: basica_81
+    21300164: basica_82
+    21300166: basica_83
+    21300168: basica_84
+    21300170: basica_85
+    21300172: basica_86
+    21300174: basica_87
+    21300176: basica_88
+    21300178: basica_89
+    21300180: basica_90
+    21300182: basica_91
+    21300184: basica_92
+    21300186: basica_93
+    21300188: basica_94
+    21300190: basica_95
+    21300192: basica_96
+    21300194: basica_97
+    21300196: basica_98
+    21300198: basica_99
+    21300200: basica_100
+    21300202: basica_101
+    21300204: basica_102
+    21300206: basica_103
+    21300208: basica_104
+    21300210: basica_105
+    21300212: basica_106
+    21300214: basica_107
+    21300216: basica_108
+    21300218: basica_109
+    21300220: basica_110
+    21300222: basica_111
+    21300224: basica_112
+    21300226: basica_113
+    21300228: basica_114
+    21300230: basica_115
+    21300232: basica_116
+    21300234: basica_117
+    21300236: basica_118
+    21300238: basica_119
+    21300240: basica_120
+    21300242: basica_121
+    21300244: basica_122
+    21300246: basica_123
+    21300248: basica_124
+    21300250: basica_125
+    21300252: basica_126
+    21300254: basica_127
+    21300256: basica_128
+    21300258: basica_129
+    21300260: basica_130
+    21300262: basica_131
+    21300264: basica_132
+    21300266: basica_133
+    21300268: basica_134
+    21300270: basica_135
+    21300272: basica_136
+    21300274: basica_137
+    21300276: basica_138
+    21300278: basica_139
+    21300280: basica_140
+    21300282: basica_141
+    21300284: basica_142
+    21300286: basica_143
+    21300288: basica_144
+    21300290: basica_145
+    21300292: basica_146
+    21300294: basica_147
+    21300296: basica_148
+    21300298: basica_149
+    21300300: basica_150
+    21300302: basica_151
+    21300304: basica_152
+    21300306: basica_153
+    21300308: basica_154
+    21300310: basica_155
+    21300312: basica_156
+    21300314: basica_157
+    21300316: basica_158
+    21300318: basica_159
+    21300320: basica_160
+    21300322: basica_161
+    21300324: basica_162
+    21300326: basica_163
+    21300328: basica_164
+    21300330: basica_165
+    21300332: basica_166
+    21300334: basica_167
+    21300336: basica_168
+    21300338: basica_169
+    21300340: basica_170
+    21300342: basica_171
+    21300344: basica_172
+    21300346: basica_173
+    21300348: basica_174
+    21300350: basica_175
+    21300352: basica_176
+    21300354: basica_177
+    21300356: basica_178
+    21300358: basica_179
+    21300360: basica_180
+    21300362: basica_181
+    21300364: basica_182
+    21300366: basica_183
+    21300368: basica_184
+    21300370: basica_185
+    21300372: basica_186
+    21300374: basica_187
+    21300376: basica_188
+    21300378: basica_189
+    21300380: basica_190
+    21300382: basica_191
+    21300384: basica_192
+    21300386: basica_193
+    21300388: basica_194
+    21300390: basica_195
+    21300392: basica_196
+    21300394: basica_197
+    21300396: basica_198
+    21300398: basica_199
+    21300400: basica_200
+    21300402: basica_201
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basica_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 591
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_7
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_9
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_10
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_11
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_12
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 591
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_20
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_22
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_23
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_24
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_25
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_26
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 413
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_32
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_33
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_34
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_36
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_37
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_38
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_39
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_40
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 253
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_44
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_46
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_48
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_49
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_50
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_51
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_52
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_53
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_54
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 100
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basica_55
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2
+        width: 177
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

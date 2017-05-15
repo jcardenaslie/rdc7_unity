@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2770ea0f1a5e3fe429092e217b7902ae
+timeCreated: 1492915248
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neo Sans Pro
+  fontNames:
+  - Neo Sans Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
