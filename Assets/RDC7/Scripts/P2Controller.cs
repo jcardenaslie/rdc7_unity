@@ -17,16 +17,7 @@ public class P2Controller : MonoBehaviour {
     // Use this for initialization
     void Start () {
         StartCoroutine("RutinaBrillos");
-        Transform panelMenu = this.transform.FindChild("BottomMenu");
-        btnNext = panelMenu.transform.FindChild("Next").gameObject;
-        btnNext.SetActive(false);
-        
-        
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+        DeactivateNextButton();
 	}
 
     private IEnumerator RutinaBrillos()
@@ -64,5 +55,12 @@ public class P2Controller : MonoBehaviour {
         tmp_image.transform.position = new Vector2(t.position.x, t.position.y);
         tmp_image.transform.localScale = Vector3.one;
         return tmp_image;
+    }
+
+    private void DeactivateNextButton()
+    {
+        Transform panelMenu = this.transform.FindChild("BottomMenu");
+        btnNext = panelMenu.transform.FindChild("Next").gameObject;
+        btnNext.SetActive(false);
     }
 }
