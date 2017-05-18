@@ -917,6 +917,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114061801869543028
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1148,6 +1151,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114121192889291966
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1404,6 +1410,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114223738395960900
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1415,6 +1424,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114236043680617156
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1453,6 +1465,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114264157134590590
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1573,6 +1588,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114346233956414054
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1611,6 +1629,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114360587419509708
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1761,6 +1782,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114416278707581976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1799,6 +1823,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114456548529991930
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1810,6 +1837,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114469362002051594
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2497,6 +2527,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9472a5e1d3d866844adee36557da9930, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_FluxAnimationObjectsOpenStart: []
+  m_FluxAnimationObjectsOpenEnd: []
+  m_FluxAnimationObjectsCloseStart: []
+  m_FluxAnimationObjectsCloseEnd: []
+  isActive: 0
+  index: 0
+  nextButton: {fileID: 0}
+  prevButton: {fileID: 0}
+  finishButton: {fileID: 0}
+  onOpen:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  onClose:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  onNotepadClosed:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
 --- !u!114 &114609335705145398
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2508,6 +2562,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114612959857217408
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2560,6 +2617,618 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 872da36ead41ca045b8e1bcdff621df1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Movement:
+    OpenAnimation:
+      AnimMethod: 0
+      CurveX:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveY:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveZ:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      XEquation: 0
+      YEquation: 0
+      ZEquation: 0
+      Duration: 1
+      Delay: 0
+      Start: {x: 0, y: 0, z: 0}
+      End: {x: 0, y: 0, z: 0}
+      ShowInspector: 0
+    CloseAnimation:
+      AnimMethod: 0
+      CurveX:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveY:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveZ:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      XEquation: 0
+      YEquation: 0
+      ZEquation: 0
+      Duration: 1
+      Delay: 0
+      Start: {x: 0, y: 0, z: 0}
+      End: {x: 0, y: 0, z: 0}
+      ShowInspector: 0
+    Enable: 0
+    Autoclose: 0
+    AutocloseDelay: 0
+    Autoplay: 0
+    Loop: 0
+    ShowInspector: 0
+  Rotation:
+    OpenAnimation:
+      AnimMethod: 0
+      CurveX:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveY:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveZ:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      XEquation: 0
+      YEquation: 0
+      ZEquation: 0
+      Duration: 1
+      Delay: 0
+      Start: {x: 0, y: 0, z: 0}
+      End: {x: 0, y: 0, z: 0}
+      ShowInspector: 0
+    CloseAnimation:
+      AnimMethod: 0
+      CurveX:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveY:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveZ:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      XEquation: 0
+      YEquation: 0
+      ZEquation: 0
+      Duration: 1
+      Delay: 0
+      Start: {x: 0, y: 0, z: 0}
+      End: {x: 0, y: 0, z: 0}
+      ShowInspector: 0
+    Enable: 0
+    Autoclose: 0
+    AutocloseDelay: 0
+    Autoplay: 0
+    Loop: 0
+    ShowInspector: 0
+  Scale:
+    OpenAnimation:
+      AnimMethod: 0
+      CurveX:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveY:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveZ:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      XEquation: 0
+      YEquation: 0
+      ZEquation: 0
+      Duration: 1
+      Delay: 0
+      Start: {x: 0, y: 0, z: 0}
+      End: {x: 0, y: 0, z: 0}
+      ShowInspector: 0
+    CloseAnimation:
+      AnimMethod: 0
+      CurveX:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveY:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      CurveZ:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      XEquation: 0
+      YEquation: 0
+      ZEquation: 0
+      Duration: 1
+      Delay: 0
+      Start: {x: 0, y: 0, z: 0}
+      End: {x: 0, y: 0, z: 0}
+      ShowInspector: 0
+    Enable: 0
+    Autoclose: 0
+    AutocloseDelay: 0
+    Autoplay: 0
+    Loop: 0
+    ShowInspector: 0
+  Alpha:
+    OpenAnimation:
+      Duration: 1
+      Delay: 0
+      Start: 1
+      End: 1
+      ShowInspector: 0
+    CloseAnimation:
+      Duration: 1
+      Delay: 0
+      Start: 1
+      End: 1
+      ShowInspector: 0
+    Enable: 0
+    Autoclose: 0
+    AutocloseDelay: 0
+    Autoplay: 0
+    Loop: 0
+    ShowInspector: 0
+  ColorData:
+    OpenAnimation:
+      AnimMethod: 0
+      Curve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      Equation: 0
+      Duration: 1
+      Delay: 0
+      Start: {r: 1, g: 1, b: 1, a: 1}
+      End: {r: 1, g: 1, b: 1, a: 1}
+      ShowInspector: 0
+    CloseAnimation:
+      AnimMethod: 0
+      Curve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 2
+          time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - serializedVersion: 2
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      Equation: 0
+      Duration: 1
+      Delay: 0
+      Start: {r: 1, g: 1, b: 1, a: 1}
+      End: {r: 1, g: 1, b: 1, a: 1}
+      ShowInspector: 0
+    Enable: 0
+    Autoclose: 0
+    AutocloseDelay: 0
+    Autoplay: 0
+    Loop: 0
+    ShowInspector: 0
+  TimeMode: 0
+  onOpenStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onOpenEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onCloseStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onCloseEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onMovementOpenStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onMovementOpenEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onMovementCloseStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onMovementCloseEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onRotationOpenStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onRotationOpenEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onRotationCloseStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onRotationCloseEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onScaleOpenStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onScaleOpenEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onScaleCloseStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onScaleCloseEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAlphaOpenStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAlphaOpenEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAlphaCloseStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAlphaCloseEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onColorOpenStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onColorOpenEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onColorCloseStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onColorCloseEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: FluxAnimation+AnimNotificationEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  ShowAnimations: 0
+  ShowEvents: 0
+  ShowNormalEvents: 0
+  ShowMovementEvents: 0
+  ShowRotationEvents: 0
+  ShowScaleEvents: 0
+  ShowAlphaEvents: 0
+  ShowColorEvents: 0
 --- !u!114 &114626542426034494
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2739,6 +3408,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114683671306603996
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2750,6 +3422,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114685385087503944
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2885,6 +3560,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114707960031011726
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2923,6 +3601,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114763236451624868
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3069,6 +3750,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114822990030619120
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3080,6 +3764,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddb5d9618c3f3844fb057b695875a379, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxTransitionTime: 3
 --- !u!114 &114828979457195304
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3322,6 +4007,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114893392874875920
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3420,6 +4108,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6bbd08ff18101f46b5861b22df79b97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restoreMovementSpeed: 0.4
+  allowMultipleDrags: 0
+  objectiveList: []
 --- !u!114 &114936423696961138
 MonoBehaviour:
   m_ObjectHideFlags: 1
