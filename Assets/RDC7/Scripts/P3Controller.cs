@@ -7,14 +7,17 @@ public class P3Controller : MonoBehaviour {
     private string currentChoice;
     private string answer = "C";
     private GameObject btnNext;
-    private int currentExcercise;
-    private int totalExcercise;
+    private int currentExcercise = 0;
+    private int lastIndexExcercise;
 
-    public Panel []exercices;
+    //Paneles de ejercicios
+    public RectTransform []exercises;
 
     // Use this for initialization
     void Start () {
         DeactivateNextButton();
+        exercises[currentExcercise].gameObject.SetActive(true);
+        lastIndexExcercise = exercises.Length - 1;
 	}
 	
 
@@ -26,15 +29,20 @@ public class P3Controller : MonoBehaviour {
     }
 
     private void CheckGameState() {
-        if (currentChoice == answer && currentExcercise < totalExcercise)
+        if (currentChoice == answer && currentExcercise < lastIndexExcercise)
         {
+            Debug.Log("Right Choice Sgte ejercicio");
+            exercises[currentExcercise].gameObject.SetActive(false);
+            currentExcercise++;
+            exercises[currentExcercise].gameObject.SetActive(true);
+        }
+        else if (currentChoice == answer && currentExcercise == lastIndexExcercise) {
             btnNext.SetActive(true);
-            Debug.Log("Right Choice");
+            Debug.Log("Right Choice Fin de los ejercicios");
         }
         else {
             Debug.Log(currentChoice);
         }
-        
     }
 
     public void OpcionA() {

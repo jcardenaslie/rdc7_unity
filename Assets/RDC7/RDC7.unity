@@ -175,7 +175,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Opcion 1
+  m_Text: Opcion A
 --- !u!222 &110816934
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -389,7 +389,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &355964258
 RectTransform:
   m_ObjectHideFlags: 0
@@ -512,7 +512,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Opcion 1
+  m_Text: Opcion A
 --- !u!222 &419577890
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -535,7 +535,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &507395074
 RectTransform:
   m_ObjectHideFlags: 0
@@ -555,7 +555,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000015258789, y: -0.000015258789}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &507395075
@@ -976,7 +976,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Opcion 2
+  m_Text: Opcion B
 --- !u!222 &717603391
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2002,6 +2002,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 839fcf5094b5eaf4fbef5a13951125d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  exercises:
+  - {fileID: 355964258}
+  - {fileID: 507395074}
 --- !u!1 &1212185082 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1600191575918514, guid: 8359bd7709be95949a933b447d377087,
@@ -3839,7 +3842,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8620689, g: 1, b: 0, a: 1}
+  m_Color: {r: 0, g: 1, b: 0.751724, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -3927,7 +3930,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Opcion 2
+  m_Text: Opcion B
 --- !u!222 &2040733247
 CanvasRenderer:
   m_ObjectHideFlags: 0
