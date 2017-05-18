@@ -4,14 +4,15 @@ using UnityEngine;
 
 public class P3Controller : MonoBehaviour {
 
-    private string currentChoice;
-    private string answer = "C";
-    private GameObject btnNext;
-    private int currentExcercise = 0;
-    private int lastIndexExcercise;
-
+    public string[] answer;
     //Paneles de ejercicios
-    public RectTransform []exercises;
+    public RectTransform[] exercises;
+
+
+    private string currentChoice;
+    private int currentExcercise = 0;
+    private GameObject btnNext;
+    private int lastIndexExcercise;
 
     // Use this for initialization
     void Start () {
@@ -29,14 +30,14 @@ public class P3Controller : MonoBehaviour {
     }
 
     private void CheckGameState() {
-        if (currentChoice == answer && currentExcercise < lastIndexExcercise)
+        if (currentChoice == answer[currentExcercise] && currentExcercise < lastIndexExcercise)
         {
             Debug.Log("Right Choice Sgte ejercicio");
             exercises[currentExcercise].gameObject.SetActive(false);
             currentExcercise++;
             exercises[currentExcercise].gameObject.SetActive(true);
         }
-        else if (currentChoice == answer && currentExcercise == lastIndexExcercise) {
+        else if (currentChoice == answer[currentExcercise] && currentExcercise == lastIndexExcercise) {
             btnNext.SetActive(true);
             Debug.Log("Right Choice Fin de los ejercicios");
         }

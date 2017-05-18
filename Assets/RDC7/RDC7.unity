@@ -2002,6 +2002,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 839fcf5094b5eaf4fbef5a13951125d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  answer:
+  - A
+  - C
   exercises:
   - {fileID: 355964258}
   - {fileID: 507395074}
@@ -2394,7 +2397,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1600191575918514, guid: 8359bd7709be95949a933b447d377087, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8359bd7709be95949a933b447d377087, type: 2}
