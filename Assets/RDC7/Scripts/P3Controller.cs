@@ -10,6 +10,8 @@ public class P3Controller : MonoBehaviour {
     private int currentExcercise;
     private int totalExcercise;
 
+    public Panel []exercices;
+
     // Use this for initialization
     void Start () {
         DeactivateNextButton();
