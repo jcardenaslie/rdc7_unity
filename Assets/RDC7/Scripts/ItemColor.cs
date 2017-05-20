@@ -13,10 +13,15 @@ public class ItemColor : MonoBehaviour {
         Image tmp_image = GetComponent<Image>();
         //Debug.Log("color imagen" + tmp_image.color);
         this.color = tmp_image.color;
+        startPosition = new Vector3(transform.position.x, transform.position.y, transform.position.z);
     }
 
 
     public Color GetColor() {
         return this.color;
+    }
+
+    public void RestartPosition() {
+        transform.position = startPosition;
     }
 }

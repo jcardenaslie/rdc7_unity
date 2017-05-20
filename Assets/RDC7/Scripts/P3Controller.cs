@@ -20,7 +20,6 @@ public class P3Controller : MonoBehaviour {
         exercises[currentExcercise].gameObject.SetActive(true);
         lastIndexExcercise = exercises.Length - 1;
 	}
-	
 
     private void DeactivateNextButton()
     {
@@ -61,5 +60,24 @@ public class P3Controller : MonoBehaviour {
     {
         currentChoice = "C";
         CheckGameState();
+    }
+
+    public void StartWindow()
+    {
+
+        currentExcercise = 0;
+        btnNext.SetActive(false);
+        for (int i = 0; i < lastIndexExcercise + 1; i++)
+        {
+            Debug.Log("StartWindow");
+            if (i == 0)
+            {
+                exercises[i].gameObject.SetActive(true);
+            }
+            else
+            {
+                exercises[i].gameObject.SetActive(false);
+            }
+        }
     }
 }

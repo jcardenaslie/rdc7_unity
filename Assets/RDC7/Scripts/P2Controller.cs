@@ -16,7 +16,6 @@ public class P2Controller : MonoBehaviour {
     public int waitTime = 1;
     // Use this for initialization
     void Start () {
-        StartCoroutine("RutinaBrillos");
         DeactivateNextButton();
 	}
 
@@ -62,5 +61,12 @@ public class P2Controller : MonoBehaviour {
         Transform panelMenu = this.transform.FindChild("BottomMenu");
         btnNext = panelMenu.transform.FindChild("Next").gameObject;
         btnNext.SetActive(false);
+    }
+
+    // controlado por el boton next de la pantalla 1 por medio de eventSystems
+    public void StartWindow() {
+        btnNext.SetActive(false);
+        StopCoroutine("RutinaBrillos");
+        StartCoroutine("RutinaBrillos");
     }
 }

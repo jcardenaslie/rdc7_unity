@@ -5,14 +5,15 @@ using UnityEngine.UI;
 
 public class P6Controller : MonoBehaviour {
 
-    public Image[] objectoPintable;
+    public Image[] objetoPintable;
+    public ItemColor[] colores;
     private GameObject btnNext;
     private int totalObjetosPintables;
     // Use this for initialization
 
     void Start()
     {
-        totalObjetosPintables = objectoPintable.Length;
+        totalObjetosPintables = objetoPintable.Length;
         DeactivateNextButton();
     }
 
@@ -23,21 +24,35 @@ public class P6Controller : MonoBehaviour {
         btnNext.SetActive(false);
     }
 
-    public void CheckGameState() {
+    private void Win() {
+        btnNext.SetActive(true);
+    }
+
+    public void CheckGameState()
+    {
         Debug.Log("checkGame");
         int indexCount = 0;
-        for (int i = 0; i < objectoPintable.Length ; i++) {
-            if (objectoPintable[i].GetComponent<Image>().color != Color.black ) {
+        for (int i = 0; i < objetoPintable.Length; i++)
+        {
+            if (objetoPintable[i].GetComponent<Image>().color != Color.black)
+            {
                 indexCount++;
             }
         }
 
-        if (indexCount == totalObjetosPintables ) {
+        if (indexCount == totalObjetosPintables)
+        {
             Win();
         }
     }
 
-    private void Win() {
-        btnNext.SetActive(true);
+    public void StartWindow() {
+        btnNext.SetActive(false);
+        for (int i = 0; i < objetoPintable.Length; i++) {
+            objetoPintable[i].color = Color.black;
+        }
+        for (int j =0; j < colores.Length; j++) {
+            colores[j].RestartPosition();
+        }
     }
 }
