@@ -17,6 +17,7 @@ namespace RDC
         public float restoreMovementSpeed = 0.4f;
         public bool allowMultipleDrags = false;
         public GameObject[] objectiveList;
+        public P6Controller pController;
 
         // al comenzar el drag setea la posicion inicial del objeto, la cual es en donde fue agarrado
         public void OnBeginDrag(PointerEventData eventData)
@@ -97,6 +98,8 @@ namespace RDC
             for (int i = 0; i < objetoPintable.Length; i++) {
                 objetoPintable[i].color = GetComponent<ItemColor>().GetColor();
             }
+
+            pController.CheckGameState();
         }
 
         protected void RestorePosition()
