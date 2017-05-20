@@ -5,9 +5,9 @@ using UnityEngine.UI;
 
 public class ColorContainer : MonoBehaviour {
 
-    public Image objetoPintable;
+    public Image[] objetoPintable;
 	
-    public Image GetImagenPintable()
+    public Image[] GetImagenPintable()
     {
         return this.objetoPintable;
     }

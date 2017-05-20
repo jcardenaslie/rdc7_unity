@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.Events;
 using UnityEngine.UI;
+using System;
 
 namespace RDC
 {
@@ -57,12 +58,12 @@ namespace RDC
                     if (UIUtility.Singleton.Contains(objectiveList[i].transform, UIUtility.Singleton.GetCorrectedMousePosition()))
                     {
                         Debug.Log("OnEndDrag: utility");
-
-                        //Debug.Log("Color objeto dragado " + GetComponent<ItemColor>().GetColor());
+                        
                         objectiveTargetted = objectiveList[i];
 
-                        Image objetoPintable = objectiveTargetted.GetComponent<ColorContainer>().GetImagenPintable();
-                        objetoPintable.color = GetComponent<ItemColor>().GetColor();
+                        PintarObjetos(objectiveTargetted);
+                        
+
                         break;
                     }
                 }
@@ -86,6 +87,15 @@ namespace RDC
                     Debug.Log("OnEndDrag: restore position");
                     RestorePosition();
                 }
+            }
+        }
+
+        private void PintarObjetos(GameObject obj)
+        {
+            Image[] objetoPintable = obj.GetComponent<ColorContainer>().GetImagenPintable();
+            
+            for (int i = 0; i < objetoPintable.Length; i++) {
+                objetoPintable[i].color = GetComponent<ItemColor>().GetColor();
             }
         }
 
