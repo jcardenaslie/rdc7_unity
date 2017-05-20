@@ -62,7 +62,7 @@ namespace RDC
                         
                         objectiveTargetted = objectiveList[i];
 
-                        PintarObjetos(objectiveTargetted);
+                        PaintObject(objectiveTargetted);
                         
 
                         break;
@@ -91,12 +91,13 @@ namespace RDC
             }
         }
 
-        private void PintarObjetos(GameObject obj)
+        private void PaintObject(GameObject obj)
         {
             Image[] objetoPintable = obj.GetComponent<ColorContainer>().GetImagenPintable();
-            
+            Color color = GetComponent<ItemColor>().GetColor();
+
             for (int i = 0; i < objetoPintable.Length; i++) {
-                objetoPintable[i].color = GetComponent<ItemColor>().GetColor();
+                objetoPintable[i].color = color;
             }
 
             pController.CheckGameState();
